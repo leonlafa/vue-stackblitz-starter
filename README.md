@@ -1,4 +1,4 @@
-# leonlafa-vue-starter
+# leonlafa-stackblitz-starter
 
 A VueJs Stackblitz starter template
 
